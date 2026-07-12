@@ -1,4 +1,4 @@
-Plant_ID,Date,Temperature (°C),Humidity (%),TDS Value (ppm),pH Level,Growth Days,Temperature (F),Humidity
+Plant_ID,Date,Temperature (Â°C),Humidity (%),TDS Value (ppm),pH Level,Growth Days,Temperature (F),Humidity
 1,8/3/2023,33.4,53,582,6.4,1,92.12,0.53
 1,8/4/2023,33.5,53,451,6.1,2,92.3,0.53
 1,8/5/2023,33.4,59,678,6.4,3,92.12,0.59
